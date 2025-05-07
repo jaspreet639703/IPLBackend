@@ -650,6 +650,6 @@ def main():
         }, f, indent=2)
     
     print("\nTeam data saved to fantasy_team.json")
-
+    
 if __name__ == "__main__":
     main()
